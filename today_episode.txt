@@ -1,55 +1,55 @@
 === ซีรีส์สั้นฮีลใจ 'ครอบครัวอบอุ่น' ประจำวันที่ 2026-11-26 ===
-ชื่อตอน: รอยร้าวที่อบอุ่น
+ชื่อตอน: อุ่นไอใบเตย
 
 --------------------------------------------------
 1. การออกแบบตัวละคร (Character Design - สำหรับคุมหน้าและชุดให้คงเดิม)
 --------------------------------------------------
-ตัวละครที่ 1: พ่อสมพร (พ่อวัย 54 ปี อดีตช่างไม้ผู้ใจเย็นและรักลูกสุดหัวใจ)
-- บุคลิก: สุขุม อบอุ่น พูดน้อยแต่ใส่ใจการกระทำเสมอ เป็นที่พักพิงที่มั่นคงของลูก
-- ลักษณะ/สีผม/ชุด: ชายไทยวัย 54 ปี รูปร่างสันทัด ผิวสองสี มีริ้วรอยยิ้มรอบดวงตา ผมสั้นสีดำแซมเทาดอกเลา สวมเสื้อโปโลคอปกแขนสั้นสีน้ำเงินกรมท่าซีด กางเกงผ้าลินินสีเบจขายาว
-- Character Prompt (EN): 54-year-old Thai father, medium build, warm tan skin, kind crinkling eyes with gentle smile lines, neat short salt-and-pepper hair, wearing a faded navy blue short-sleeve collared polo shirt and beige linen trousers, patient and tender demeanor, warm indoor studio lighting, consistent character sheet, vertical 9:16 aspect ratio
+ตัวละครที่ 1: แม่รัตน์ (แม่วัย 48 ปี เจ้าของร้านขนมไทยโบราณผู้อบอุ่นและเปี่ยมด้วยความเข้าใจ)
+- บุคลิก: ใจเย็น ใจดี อบอุ่น มองโลกในแง่บวก เป็นที่พักพิงทางใจให้ลูกเสมอ
+- ลักษณะ/สีผม/ชุด: หญิงไทยวัย 48 ปี ใบหน้าอิ่มเอิบมีริ้วรอยแห่งความปรานี ดวงตาอบอุ่น ผมสีน้ำตาลเข้มเกล้ามวยต่ำเรียบร้อยติดกิ๊บกระดองเต่า สวมเสื้อเชิ้ตผ้าฝ้ายแขนสั้นสีงาช้าง สวมทับด้วยผ้ากันเปื้อนลายดอกไม้เล็กๆ โทนสีม่วงลาเวนเดอร์
+- Character Prompt (EN): A 48-year-old Thai mother, warm maternal aura, gentle face with subtle laugh lines, kind compassionate dark eyes, dark brown hair neatly tied in a low bun with a small tortoiseshell hair clip, wearing an ivory cotton short-sleeved blouse under a lavender floral pattern apron, soft warm home lighting, consistent character sheet, vertical 9:16 aspect ratio
 
-ตัวละครที่ 2: แพรว (ลูกสาววัย 25 ปี พนักงานกราฟิกดีไซเนอร์ที่กำลังเผชิญภาวะหมดไฟ)
-- บุคลิก: มุ่งมั่น ทุ่มเทกับงานจนละเลยตัวเอง เก็บความรู้สึกเก่ง แต่อ่อนไหวเมื่ออยู่กับคนที่ไว้ใจ
-- ลักษณะ/สีผม/ชุด: หญิงสาวไทยวัย 25 ปี รูปร่างโปร่งบาง ผิวขาวเหลือง ผมยาวประบ่าตรงสีดำสนิทมัดหางม้าต่ำหลวมๆ พร้อมหน้าม้าบาง สวมเสื้อไหมพรมคอกลมทรงโอเวอร์ไซส์สีเขียวเซจ (sage green) และกางเกงขายาวผ้าฝ้ายสีครีม
-- Character Prompt (EN): 25-year-old Thai young woman, slender frame, fair-warm skin, gentle tired dark brown eyes, straight glossy jet-black shoulder-length hair tied in a loose low ponytail with wispy bangs, wearing an oversized sage-green knitted crewneck sweater and cream cotton lounge pants, vulnerable and weary expression, warm domestic lighting, consistent character sheet, vertical 9:16 aspect ratio
+ตัวละครที่ 2: นนท์ (ลูกชายวัย 21 ปี นักศึกษาปีสุดท้ายที่เพิ่งผิดหวังจากการสัมภาษณ์งานสำคัญ)
+- บุคลิก: กตัญญู มุ่งมั่น ตั้งใจ แต่กดดันตัวเองสูงจนกลัวการทำให้ครอบครัวผิดหวัง
+- ลักษณะ/สีผม/ชุด: ชายหนุ่มไทยวัย 21 ปี รูปร่างโปร่ง ผิวสองสี ใบหน้าสุภาพ สวมแว่นตากรอบบางสีดำ ผมส้นหยักศกสีดำธรรมชาติปัดข้างเล็กน้อย สวมเสื้อเชิ้ตคอปกแขนยาวสีฟ้าพาสเทลพับแขนถึงข้อศอก กางเกงสแล็กสีเทาเข้มชาร์โคล
+- Character Prompt (EN): A 21-year-old Thai young man, slim build, polite face, wearing thin black-rimmed spectacles, natural slightly wavy black hair parted naturally, wearing a light blue pastel Oxford long-sleeve shirt with sleeves rolled up to the elbows, charcoal gray tailored trousers, vulnerable yet determined expression, vertical 9:16 aspect ratio
 
 --------------------------------------------------
 2. บทละครและคำสั่งสร้างภาพ/วิดีโอ (5 ฉาก ขนาด 9:16)
 --------------------------------------------------
 [ฉากที่ 1: เปิดเรื่อง/ปูบรรยากาศ]
-- มุมกล้อง/แอ็กชัน: มุมกล้องระดับสายตา (Eye-level medium shot) แพนตามหลังแพรวที่ค่อยๆ ถอดรองเท้าหน้าประตูบ้านทาวน์โฮมไทยอันเงียบสงบในยามค่ำคืน เธอวางกระเป๋าแล็ปท็อปลงบนโต๊ะอย่างหมดแรง ไหล่ตก ถอนหายใจยาว แล้วทิ้งตัวลงนั่งบนโซฟาไม้เบาะนุ่มด้วยความเหนื่อยล้า
-- บทพูด/เสียงพากย์: แพรว (พูดพึมพำกับตัวเองเบาๆ): "ทำไมทุกอย่าง... มันดูยากไปหมดเลยนะวันนี้"
-- Image/Video Prompt (EN): Cinematic eye-level medium shot, 25-year-old Thai young woman with glossy jet-black shoulder-length hair tied in a loose low ponytail with wispy bangs, wearing an oversized sage-green knitted crewneck sweater and cream cotton lounge pants, slumping exhaustedly on a cozy wooden sofa in a dimly lit Thai home living room at night, warm lamp lighting, quiet moody atmosphere, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium Shot ช่วงเวลาเย็น แสงสีทองอบอุ่นส่องผ่านหน้าต่างครัวไทย แม่รัตน์กำลังจัดวางขนมเปียกปูนใบเตยสีเขียวมรกตลงบนจานกระเบื้องเคลือบโบราณ นนท์เปิดประตูไม้เข้ามาด้วยท่าทางหมดเรี่ยวแรง ถือแฟ้มเอกสารแนบข้างลำตัว ไหล่ห่อเล็กน้อย
+- บทพูด/เสียงพากย์: นนท์: (เสียงแผ่วเบา) "แม่ครับ... นนท์กลับมาแล้วครับ"
+แม่รัตน์: (หันมายิ้มอบอุ่น ดวงตาเป็นประกาย) "กลับมาแล้วเหรอลูก เข้ามาดื่มน้ำก่อนเร็ว วันนี้แม่ทำเปียกปูนใบเตยของโปรดไว้รอด้วยนะ"
+- Image/Video Prompt (EN): Cinematic vertical 9:16 medium shot, cozy traditional Thai wooden kitchen during golden hour. On the left, a 48-year-old Thai mother with dark brown hair in a low bun, wearing an ivory cotton short-sleeved blouse and a lavender floral apron, plating emerald green pandan sweets on a vintage ceramic plate. On the right entering through a wooden door, a 21-year-old Thai young man with thin black-rimmed glasses, wavy black hair, wearing a light blue pastel Oxford shirt with rolled-up sleeves and charcoal gray trousers, holding a portfolio folder looking tired, vertical 9:16 aspect ratio
 
 [ฉากที่ 2: ปมเล็กๆ หรือความรู้สึกในใจ]
-- มุมกล้อง/แอ็กชัน: มุมกล้องระยะใกล้ (Close-up shot) แพนจากใบหน้าของแพรวที่มีแววตาหม่นหมองลงมาที่มือของเธอ ซึ่งกำลังหยิบกล่องไม้ใส่ของโบราณขนาดเล็กชิ้นโปรดขึ้นมาดู แต่พบว่ามุมไม้กล่องแตกหักจากอุบัติเหตุเมื่อเช้า น้ำตาหยดหนึ่งของเธอค่อยๆ ไหลผ่านแก้ม รู้สึกเหมือนตัวเองจัดการอะไรในชีวิตไม่ได้สักอย่าง
-- บทพูด/เสียงพากย์: แพรว (สะอื้นเบาๆ): "แม้แต่ของที่พ่อให้... เรายังดูแลมันไม่ได้เลย"
-- Image/Video Prompt (EN): Cinematic close-up shot, 25-year-old Thai young woman with glossy jet-black hair in a loose low ponytail and wispy bangs, wearing an oversized sage-green knitted crewneck sweater, crying softly with a tear running down her cheek as she holds a small cracked wooden box in her hands, gentle ambient night lighting, emotional and vulnerable, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Close-up สลับระหว่างหน้าจอมือถือของนนท์ที่แสดงอีเมลแจ้งปฏิเสธรับเข้าทำงาน กับใบหน้าของนนท์ที่น้ำตาคลอเบ้า เขาแอบคว่ำหน้าจอมือถือลงบนโต๊ะไม้เมื่อเห็นแม่เดินเข้ามา พยายามฝืนยิ้มแต่ริมฝีปากสั่นระริก
+- บทพูด/เสียงพากย์: นนท์: (น้ำเสียงสั่นเครือ) "แม่ครับ... นนท์ขอโทษนะ บริษัทที่นนท์อยากทำที่สุด... เขาไม่เลือกนนท์ นนท์ทำให้แม่ต้องเหนื่อยส่งเรียนฟรีๆ อีกแล้ว..."
+แม่รัตน์: (มองดูลูกด้วยสายตาอ่อนโยน ไร้แววผิดหวัง)
+- Image/Video Prompt (EN): Cinematic vertical 9:16 close-up shot. Focus on a 21-year-old Thai young man wearing thin black-rimmed glasses, slightly wavy black hair, and a light blue pastel Oxford shirt, sitting at a rustic wooden dining table with eyes brimming with unshed tears, hastily flipping his smartphone screen face down. Soft golden rim light illuminating his emotional expression, atmospheric Thai house interior, vertical 9:16 aspect ratio
 
 [ฉากที่ 3: จุดเปลี่ยน/การกระทำหรือคำพูดที่แสดงความห่วงใย]
-- มุมกล้อง/แอ็กชัน: มุมกล้องกว้างปานกลาง (Medium shot) เผยให้เห็นพ่อสมพรเดินออกมาจากครัวอย่างเงียบเชียบ ในมือถือถ้วยน้ำขิงต้มร้อนๆ ส่งไอควันกรุ่น พร้อมกับกล่องไม้แกะสลักอีกใบที่ซ่อมแซมอย่างประณีต พ่อสมพรวางถ้วยน้ำขิงลงบนโต๊ะข้างโซฟา แล้วนั่งลงข้างๆ ลูกสาวอย่างอ่อนโยน
-- บทพูด/เสียงพากย์: พ่อสมพร: "กลับมาเหนื่อยๆ ดื่มน้ำขิงอุ่นๆ ให้โล่งคอก่อนสิลูก... พ่อเห็นกล่องมันหักเมื่อเช้า เลยเอาไม้สักเศษมาขัดต่อมุมให้ใหม่แล้วนะ"
-- Image/Video Prompt (EN): Cinematic medium shot, 54-year-old Thai father with short salt-and-pepper hair, wearing a faded navy blue short-sleeve polo shirt and beige linen trousers, gently placing a steaming ceramic bowl of ginger tea and a meticulously repaired wooden box on a low table beside his daughter, a 25-year-old Thai woman in an oversized sage-green sweater and loose low ponytail, warm golden home lighting, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium Shot แม่รัตน์วางจานขนมลงบนโต๊ะ เดินเข้ามาดึงเก้าอี้ข้างนนท์แล้วนั่งลง ยื่นมือที่อบอุ่นและมีรอยด้านจากการทำขนมไปกุมมือทั้งสองข้างของลูกชายไว้ บีบเบาๆ ส่งพลังใจ
+- บทพูด/เสียงพากย์: แม่รัตน์: (น้ำเสียงนุ่มนวล ปลอบประโลม) "ทำไมคิดแบบนั้นล่ะลูก การที่ลูกทุ่มเทเต็มที่ มันไม่มีคำว่าเสียเปล่าหรอกนะ... มานี่สิ มาช่วยแม่กวนสังขยากระทะสุดท้ายหน่อยนะ"
+- Image/Video Prompt (EN): Cinematic vertical 9:16 medium shot. In a warm wooden dining room, a 48-year-old Thai mother with dark brown hair in a low bun, wearing an ivory cotton blouse and lavender floral apron, sits lovingly beside her 21-year-old Thai son who wears thin black-rimmed glasses and a light blue Oxford shirt. She gently holds his trembling hands between hers with deep maternal affection and comforting warmth, vertical 9:16 aspect ratio
 
 [ฉากที่ 4: จุดพีคฮีลใจ/คลี่คลายอารมณ์]
-- มุมกล้อง/แอ็กชัน: มุมกล้องระยะประชิด (Tight medium shot) แพรวลูบรอยประสานไม้ที่พ่อซ่อมด้วยการขัดเงาเนียนสนิท ความรู้สึกอัดอั้นพังทลาย เธอหันไปกอดเอวพ่อแน่น พ่อสมพรยกมือลูบผมลูกสาวเบาๆ ด้วยสายตาเปี่ยมความรักและความเข้าอกเข้าใจ
-- บทพูด/เสียงพากย์: แพรว (ร้องไห้ซบไหล่พ่อ): "พ่อคะ... หนูรู้สึกเหมือนหนูทำอะไรก็พังไปหมดเลย เหนื่อยจนจะทนไม่ไหวแล้ว..."
-พ่อสมพร (ยิ้มอ่อนโยน ลูบหัวลูก): "ไม่เป็นไรเลยลูก... คนเราไม่ได้เกิดมาเพื่อเก่งตลอดเวลาหรอกนะ"
-- Image/Video Prompt (EN): Cinematic tight medium shot, emotional heartwarming moment, 25-year-old Thai daughter with glossy jet-black hair in a loose ponytail wearing an oversized sage-green sweater, leaning in to hug her 54-year-old Thai father who has neat salt-and-pepper hair and a faded navy blue polo shirt, the father gently stroking her hair with a soft comforting smile, warm cozy domestic glow, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium Close-up ที่หน้าเตาไฟอ่อน นนท์จับไม้พายกวนสังขยาใบเตยสีเขียวนวลในกระทะทองเหลือง ควันหอมกรุ่นลอยฟุ้ง แม่รัตน์ยืนเคียงข้าง ค่อยๆ วางมือทาบลงบนมือนนท์ช่วยออกแรงกวนขนม น้ำตาของนนท์หยดลงข้างแก้มแต่เป็นน้ำตาที่ปลดปล่อยความตึงเครียด
+- บทพูด/เสียงพากย์: แม่รัตน์: "ดูสิลูก... ขนมไทยน่ะ ถ้าใจร้อนเร่งไฟแรง กะทิก็แตกมัน ไส้ก็ไหม้ ต้องค่อยๆ ใช้ไฟอ่อน ค่อยๆ กวนอย่างใจเย็น ชีวิตคนเราก็เหมือนกันนะลูก พลาดตรงนี้ ไม่ได้แปลว่าลูกไม่เก่ง แค่ยังไม่ถึงจังหวะเวลาที่พอดีของลูกเท่านั้นเอง"
+- Image/Video Prompt (EN): Cinematic vertical 9:16 medium close-up shot over a traditional brass wok on a low flame stove, aromatic steam rising from rich green pandan coconut custard. A 21-year-old Thai young man wearing thin black-rimmed glasses and light blue Oxford shirt holds a wooden spatula, a single tear on his cheek, while his 48-year-old Thai mother in an ivory blouse and lavender floral apron gently places her hand over his, guiding him to stir gently, glowing warm kitchen atmosphere, vertical 9:16 aspect ratio
 
-[ฉากที่ 5: บทสรุปอบอุ่น พร้อมสอดแทรกข้อคิดสอนใจในบทพูดอย่างเป็นธรรมชาติ]
-- มุมกล้อง/แอ็กชัน: มุมกล้องระดับสายตาเฉียง (Over-the-shoulder medium shot) พ่อและลูกสาวนั่งข้างกัน แพรวเช็ดน้ำตาพร้อมรอยยิ้มบางๆ บนใบหน้า สองมือถือถ้วยน้ำขิงอุ่น ดื่มช้าๆ ขณะพ่อสมพรมองกล่องไม้ที่ซ่อมเสร็จแล้วและยิ้มให้ลูกด้วยแววตาอบอุ่นปลอดภัย บรรยากาศรอบตัวเต็มไปด้วยความสบายใจ
-- บทพูด/เสียงพากย์: พ่อสมพร: "ดูไม้นี่สิลูก... พอมีรอยแตก แล้วเราค่อยๆ ซ่อมมัน มันอาจไม่เหมือนเดิมเป๊ะ แต่มันก็ยังเป็นกล่องที่แข็งแรงได้... ใจคนเราก็เหมือนกัน ถ้าวันไหนแตกร้าว ก็แค่กลับมาพักซ่อมแซมที่บ้าน ไม่ต้องรีบสมบูรณ์แบบหรอกนะ"
-แพรว (ยิ้มรับด้วยสายตาสดใสขึ้น): "ขอบคุณนะคะพ่อ... น้ำขิงอุ่นมากเลย"
-- Image/Video Prompt (EN): Cinematic over-the-shoulder medium shot, 54-year-old Thai father in faded navy blue polo shirt and beige linen trousers smiling lovingly at his 25-year-old daughter in oversized sage-green sweater, who is holding a steaming tea bowl with a peaceful relieved smile, cozy Thai living room atmosphere, soft golden hour indoor lighting, vertical 9:16 aspect ratio
+[ฉากที่ 5: บทสรุปอบอุ่น พร้อมสอดแทรกข้อคิดสอนใจในบทพูด]
+- มุมกล้อง/แอ็กชัน: Medium Shot ทั้งสองคนนั่งเคียงข้างกันที่ชานเรือน ตักขนมเปียกปูนใบเตยโรยมะพร้าวขูดกินด้วยกัน นนท์ตักขนมเข้าปาก รสชาติหอมหวานละมุนทำให้เขายิ้มออกมาจากใจจริง แม่รัตน์ส่งยิ้มอ่อนโยนให้ ภาพค่อยๆ เฟดออกอย่างอบอุ่น
+- บทพูด/เสียงพากย์: นนท์: (ยิ้มทั้งน้ำตา รูปรอยยิ้มสดใสขึ้น) "ขนมของแม่อร่อยและอุ่นที่สุดในโลกเลยครับ พรุ่งนี้นนท์จะเริ่มส่งใบสมัครใหม่อีกครั้งครับแม่"
+แม่รัตน์: "จำไว้นะลูก ชีวิตไม่มีคำว่าล้มเหลว ตราบใดที่เรายังไม่ยอมแพ้ และต่อให้ข้างนอกจะเจออะไรมา... บ้านหลังนี้และอ้อมกอดของแม่ จะเป็นที่พักใจให้ลูกเสมอจ้ะ"
+- Image/Video Prompt (EN): Cinematic vertical 9:16 medium shot, peaceful porch of a Thai wooden home at twilight with warm ambient lanterns. A 48-year-old Thai mother in her ivory cotton blouse and lavender floral apron, and her 21-year-old son in his light blue pastel Oxford shirt and black-rimmed spectacles, sitting together sharing a bowl of Thai pandan dessert, both smiling genuinely with relief, connection, and deep family warmth, vertical 9:16 aspect ratio
 
 --------------------------------------------------
 3. ข้อคิดสอนใจ & แคปชัน
 --------------------------------------------------
-ข้อคิดสอนใจ: ชีวิตไม่จำเป็นต้องสมบูรณ์แบบตลอดเวลา เมื่อแตกร้าวก็แค่อนุญาตให้ตัวเองได้พักและซ่อมแซม โดยมีบ้านเป็นที่หลบภัยเสมอ
+ข้อคิดสอนใจ: ความสำเร็จในชีวิตก็เหมือนการเคี่ยวขนม ต้องใช้ความอดทนและเวลา
+และไม่มีความพยายามใดสูญเปล่า ตราบใดที่บ้านยังเป็นพื้นที่ปลอดภัยให้เราเริ่มต้นใหม่ได้เสมอ
 
 แคปชัน:
-ในวันที่โลกภายนอกใจร้ายจนรู้สึกเหมือนตัวเองพังทลาย... ยังมีที่หนึ่งที่พร้อมโอบกอดและซ่อมแซมใจเราเสมอ 🤍🏠
-.
-#ครอบครัวอบอุ่น #กำลังใจ #ฮีลใจ #ซีรีส์สั้น #ข้อคิดดีๆ #รักของพ่อ #บ้านคือเซฟโซน
+รสชาติที่หวานละมุนที่สุด อาจไม่ใช่ความสำเร็จในทันที แต่คือความรักจากครอบครัวที่คอยประคองในวันที่เราล้ม 💚🌱 #ครอบครัวอบอุ่น #อุ่นไอใบเตย #ซีรีส์สั้นฮีลใจ #กำลังใจ #พลังใจจากแม่ #เรื่องสั้นสะท้อนชีวิต

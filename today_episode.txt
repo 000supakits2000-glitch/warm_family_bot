@@ -1,0 +1,55 @@
+=== ซีรีส์สั้นฮีลใจ 'ครอบครัวอบอุ่น' ประจำวันที่ 2026-11-26 ===
+ชื่อตอน: รอยร้าวที่อบอุ่น
+
+--------------------------------------------------
+1. การออกแบบตัวละคร (Character Design - สำหรับคุมหน้าและชุดให้คงเดิม)
+--------------------------------------------------
+ตัวละครที่ 1: พ่อสมพร (พ่อวัย 54 ปี อดีตช่างไม้ผู้ใจเย็นและรักลูกสุดหัวใจ)
+- บุคลิก: สุขุม อบอุ่น พูดน้อยแต่ใส่ใจการกระทำเสมอ เป็นที่พักพิงที่มั่นคงของลูก
+- ลักษณะ/สีผม/ชุด: ชายไทยวัย 54 ปี รูปร่างสันทัด ผิวสองสี มีริ้วรอยยิ้มรอบดวงตา ผมสั้นสีดำแซมเทาดอกเลา สวมเสื้อโปโลคอปกแขนสั้นสีน้ำเงินกรมท่าซีด กางเกงผ้าลินินสีเบจขายาว
+- Character Prompt (EN): 54-year-old Thai father, medium build, warm tan skin, kind crinkling eyes with gentle smile lines, neat short salt-and-pepper hair, wearing a faded navy blue short-sleeve collared polo shirt and beige linen trousers, patient and tender demeanor, warm indoor studio lighting, consistent character sheet, vertical 9:16 aspect ratio
+
+ตัวละครที่ 2: แพรว (ลูกสาววัย 25 ปี พนักงานกราฟิกดีไซเนอร์ที่กำลังเผชิญภาวะหมดไฟ)
+- บุคลิก: มุ่งมั่น ทุ่มเทกับงานจนละเลยตัวเอง เก็บความรู้สึกเก่ง แต่อ่อนไหวเมื่ออยู่กับคนที่ไว้ใจ
+- ลักษณะ/สีผม/ชุด: หญิงสาวไทยวัย 25 ปี รูปร่างโปร่งบาง ผิวขาวเหลือง ผมยาวประบ่าตรงสีดำสนิทมัดหางม้าต่ำหลวมๆ พร้อมหน้าม้าบาง สวมเสื้อไหมพรมคอกลมทรงโอเวอร์ไซส์สีเขียวเซจ (sage green) และกางเกงขายาวผ้าฝ้ายสีครีม
+- Character Prompt (EN): 25-year-old Thai young woman, slender frame, fair-warm skin, gentle tired dark brown eyes, straight glossy jet-black shoulder-length hair tied in a loose low ponytail with wispy bangs, wearing an oversized sage-green knitted crewneck sweater and cream cotton lounge pants, vulnerable and weary expression, warm domestic lighting, consistent character sheet, vertical 9:16 aspect ratio
+
+--------------------------------------------------
+2. บทละครและคำสั่งสร้างภาพ/วิดีโอ (5 ฉาก ขนาด 9:16)
+--------------------------------------------------
+[ฉากที่ 1: เปิดเรื่อง/ปูบรรยากาศ]
+- มุมกล้อง/แอ็กชัน: มุมกล้องระดับสายตา (Eye-level medium shot) แพนตามหลังแพรวที่ค่อยๆ ถอดรองเท้าหน้าประตูบ้านทาวน์โฮมไทยอันเงียบสงบในยามค่ำคืน เธอวางกระเป๋าแล็ปท็อปลงบนโต๊ะอย่างหมดแรง ไหล่ตก ถอนหายใจยาว แล้วทิ้งตัวลงนั่งบนโซฟาไม้เบาะนุ่มด้วยความเหนื่อยล้า
+- บทพูด/เสียงพากย์: แพรว (พูดพึมพำกับตัวเองเบาๆ): "ทำไมทุกอย่าง... มันดูยากไปหมดเลยนะวันนี้"
+- Image/Video Prompt (EN): Cinematic eye-level medium shot, 25-year-old Thai young woman with glossy jet-black shoulder-length hair tied in a loose low ponytail with wispy bangs, wearing an oversized sage-green knitted crewneck sweater and cream cotton lounge pants, slumping exhaustedly on a cozy wooden sofa in a dimly lit Thai home living room at night, warm lamp lighting, quiet moody atmosphere, vertical 9:16 aspect ratio
+
+[ฉากที่ 2: ปมเล็กๆ หรือความรู้สึกในใจ]
+- มุมกล้อง/แอ็กชัน: มุมกล้องระยะใกล้ (Close-up shot) แพนจากใบหน้าของแพรวที่มีแววตาหม่นหมองลงมาที่มือของเธอ ซึ่งกำลังหยิบกล่องไม้ใส่ของโบราณขนาดเล็กชิ้นโปรดขึ้นมาดู แต่พบว่ามุมไม้กล่องแตกหักจากอุบัติเหตุเมื่อเช้า น้ำตาหยดหนึ่งของเธอค่อยๆ ไหลผ่านแก้ม รู้สึกเหมือนตัวเองจัดการอะไรในชีวิตไม่ได้สักอย่าง
+- บทพูด/เสียงพากย์: แพรว (สะอื้นเบาๆ): "แม้แต่ของที่พ่อให้... เรายังดูแลมันไม่ได้เลย"
+- Image/Video Prompt (EN): Cinematic close-up shot, 25-year-old Thai young woman with glossy jet-black hair in a loose low ponytail and wispy bangs, wearing an oversized sage-green knitted crewneck sweater, crying softly with a tear running down her cheek as she holds a small cracked wooden box in her hands, gentle ambient night lighting, emotional and vulnerable, vertical 9:16 aspect ratio
+
+[ฉากที่ 3: จุดเปลี่ยน/การกระทำหรือคำพูดที่แสดงความห่วงใย]
+- มุมกล้อง/แอ็กชัน: มุมกล้องกว้างปานกลาง (Medium shot) เผยให้เห็นพ่อสมพรเดินออกมาจากครัวอย่างเงียบเชียบ ในมือถือถ้วยน้ำขิงต้มร้อนๆ ส่งไอควันกรุ่น พร้อมกับกล่องไม้แกะสลักอีกใบที่ซ่อมแซมอย่างประณีต พ่อสมพรวางถ้วยน้ำขิงลงบนโต๊ะข้างโซฟา แล้วนั่งลงข้างๆ ลูกสาวอย่างอ่อนโยน
+- บทพูด/เสียงพากย์: พ่อสมพร: "กลับมาเหนื่อยๆ ดื่มน้ำขิงอุ่นๆ ให้โล่งคอก่อนสิลูก... พ่อเห็นกล่องมันหักเมื่อเช้า เลยเอาไม้สักเศษมาขัดต่อมุมให้ใหม่แล้วนะ"
+- Image/Video Prompt (EN): Cinematic medium shot, 54-year-old Thai father with short salt-and-pepper hair, wearing a faded navy blue short-sleeve polo shirt and beige linen trousers, gently placing a steaming ceramic bowl of ginger tea and a meticulously repaired wooden box on a low table beside his daughter, a 25-year-old Thai woman in an oversized sage-green sweater and loose low ponytail, warm golden home lighting, vertical 9:16 aspect ratio
+
+[ฉากที่ 4: จุดพีคฮีลใจ/คลี่คลายอารมณ์]
+- มุมกล้อง/แอ็กชัน: มุมกล้องระยะประชิด (Tight medium shot) แพรวลูบรอยประสานไม้ที่พ่อซ่อมด้วยการขัดเงาเนียนสนิท ความรู้สึกอัดอั้นพังทลาย เธอหันไปกอดเอวพ่อแน่น พ่อสมพรยกมือลูบผมลูกสาวเบาๆ ด้วยสายตาเปี่ยมความรักและความเข้าอกเข้าใจ
+- บทพูด/เสียงพากย์: แพรว (ร้องไห้ซบไหล่พ่อ): "พ่อคะ... หนูรู้สึกเหมือนหนูทำอะไรก็พังไปหมดเลย เหนื่อยจนจะทนไม่ไหวแล้ว..."
+พ่อสมพร (ยิ้มอ่อนโยน ลูบหัวลูก): "ไม่เป็นไรเลยลูก... คนเราไม่ได้เกิดมาเพื่อเก่งตลอดเวลาหรอกนะ"
+- Image/Video Prompt (EN): Cinematic tight medium shot, emotional heartwarming moment, 25-year-old Thai daughter with glossy jet-black hair in a loose ponytail wearing an oversized sage-green sweater, leaning in to hug her 54-year-old Thai father who has neat salt-and-pepper hair and a faded navy blue polo shirt, the father gently stroking her hair with a soft comforting smile, warm cozy domestic glow, vertical 9:16 aspect ratio
+
+[ฉากที่ 5: บทสรุปอบอุ่น พร้อมสอดแทรกข้อคิดสอนใจในบทพูดอย่างเป็นธรรมชาติ]
+- มุมกล้อง/แอ็กชัน: มุมกล้องระดับสายตาเฉียง (Over-the-shoulder medium shot) พ่อและลูกสาวนั่งข้างกัน แพรวเช็ดน้ำตาพร้อมรอยยิ้มบางๆ บนใบหน้า สองมือถือถ้วยน้ำขิงอุ่น ดื่มช้าๆ ขณะพ่อสมพรมองกล่องไม้ที่ซ่อมเสร็จแล้วและยิ้มให้ลูกด้วยแววตาอบอุ่นปลอดภัย บรรยากาศรอบตัวเต็มไปด้วยความสบายใจ
+- บทพูด/เสียงพากย์: พ่อสมพร: "ดูไม้นี่สิลูก... พอมีรอยแตก แล้วเราค่อยๆ ซ่อมมัน มันอาจไม่เหมือนเดิมเป๊ะ แต่มันก็ยังเป็นกล่องที่แข็งแรงได้... ใจคนเราก็เหมือนกัน ถ้าวันไหนแตกร้าว ก็แค่กลับมาพักซ่อมแซมที่บ้าน ไม่ต้องรีบสมบูรณ์แบบหรอกนะ"
+แพรว (ยิ้มรับด้วยสายตาสดใสขึ้น): "ขอบคุณนะคะพ่อ... น้ำขิงอุ่นมากเลย"
+- Image/Video Prompt (EN): Cinematic over-the-shoulder medium shot, 54-year-old Thai father in faded navy blue polo shirt and beige linen trousers smiling lovingly at his 25-year-old daughter in oversized sage-green sweater, who is holding a steaming tea bowl with a peaceful relieved smile, cozy Thai living room atmosphere, soft golden hour indoor lighting, vertical 9:16 aspect ratio
+
+--------------------------------------------------
+3. ข้อคิดสอนใจ & แคปชัน
+--------------------------------------------------
+ข้อคิดสอนใจ: ชีวิตไม่จำเป็นต้องสมบูรณ์แบบตลอดเวลา เมื่อแตกร้าวก็แค่อนุญาตให้ตัวเองได้พักและซ่อมแซม โดยมีบ้านเป็นที่หลบภัยเสมอ
+
+แคปชัน:
+ในวันที่โลกภายนอกใจร้ายจนรู้สึกเหมือนตัวเองพังทลาย... ยังมีที่หนึ่งที่พร้อมโอบกอดและซ่อมแซมใจเราเสมอ 🤍🏠
+.
+#ครอบครัวอบอุ่น #กำลังใจ #ฮีลใจ #ซีรีส์สั้น #ข้อคิดดีๆ #รักของพ่อ #บ้านคือเซฟโซน

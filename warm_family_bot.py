@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from datetime import datetime
 from google import genai
 from google.genai import types
@@ -76,13 +77,25 @@ def generate_daily_episode(history):
 3. ใน visual_prompt_en ของทุกฉาก ต้องระบุลักษณะตัวละคร (สีผม ทรงผม เสื้อผ้า) ให้ตรงกับ character_prompt_en ทุกประการ และต้องมีคำว่า "vertical 9:16 aspect ratio" ทุกฉาก
 """
 
-  response = client.models.generate_content(
-      model="gemini-3.8-flash",
-      contents=prompt,
-      config=types.GenerateContentConfig(response_mime_type="application/json"),
-  )
+  models_to_try = ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash"]
 
-  return json.loads(response.text)
+  for model_name in models_to_try:
+    for attempt in range(3):
+      try:
+        print(f"กำลังลองสร้างบทด้วยโมเดล {model_name} (ครั้งที่ {attempt + 1})...")
+        response = client.models.generate_content(
+            model=model_name,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json"
+            ),
+        )
+        return json.loads(response.text)
+      except Exception as e:
+        print(f"เกิดข้อผิดพลาด ({model_name}): {e}")
+        time.sleep(15)
+
+  raise RuntimeError("ไม่สามารถติดต่อ Gemini API ได้ทุกโมเดลในขณะนี้")
 
 
 def format_and_save_txt(data):

@@ -1,55 +1,51 @@
-=== ซีรีส์สั้นฮีลใจ 'ครอบครัวอบอุ่น' ประจำวันที่ 2026-11-26 ===
-ชื่อตอน: อุ่นไอใบเตย
+=== ซีรีส์สั้นฮีลใจ 'ครอบครัวอบอุ่น' ประจำวันที่ 2026-11-27 ===
+ชื่อตอน: ต้นไม้ของตา
 
 --------------------------------------------------
 1. การออกแบบตัวละคร (Character Design - สำหรับคุมหน้าและชุดให้คงเดิม)
 --------------------------------------------------
-ตัวละครที่ 1: แม่รัตน์ (แม่วัย 48 ปี เจ้าของร้านขนมไทยโบราณผู้อบอุ่นและเปี่ยมด้วยความเข้าใจ)
-- บุคลิก: ใจเย็น ใจดี อบอุ่น มองโลกในแง่บวก เป็นที่พักพิงทางใจให้ลูกเสมอ
-- ลักษณะ/สีผม/ชุด: หญิงไทยวัย 48 ปี ใบหน้าอิ่มเอิบมีริ้วรอยแห่งความปรานี ดวงตาอบอุ่น ผมสีน้ำตาลเข้มเกล้ามวยต่ำเรียบร้อยติดกิ๊บกระดองเต่า สวมเสื้อเชิ้ตผ้าฝ้ายแขนสั้นสีงาช้าง สวมทับด้วยผ้ากันเปื้อนลายดอกไม้เล็กๆ โทนสีม่วงลาเวนเดอร์
-- Character Prompt (EN): A 48-year-old Thai mother, warm maternal aura, gentle face with subtle laugh lines, kind compassionate dark eyes, dark brown hair neatly tied in a low bun with a small tortoiseshell hair clip, wearing an ivory cotton short-sleeved blouse under a lavender floral pattern apron, soft warm home lighting, consistent character sheet, vertical 9:16 aspect ratio
+ตัวละครที่ 1: ตาตะวัน (ตาวัย 68 ปี อดีตรุกขกรผู้ใจดีและสุขุม)
+- บุคลิก: ใจเย็น อบอุ่น มีเมตตา เปี่ยมด้วยความเข้าใจในธรรมชาติและชีวิต
+- ลักษณะ/สีผม/ชุด: ชายไทยวัย 68 ปี รูปร่างสมส่วน ผิวสีน้ำผึ้ง มีรอยยิ้มอบอุ่นใจดี มีริ้วรอยตามวัย ผมสีขาวแซมเทาสั้นตัดเรียบร้อย สวมเสื้อเชิ้ตคอจีนแขนสั้นผ้าฝ้ายสีน้ำตาลอ่อน (light brown) และกางเกงขายาวผ้าลินินสีครีม (cream)
+- Character Prompt (EN): Character sheet of a 68-year-old Thai grandfather, sun-kissed skin, warm gentle smile, neat short white and grey hair, wearing a light brown cotton mandarin collar short-sleeve shirt and cream linen trousers. Wise, patient, cozy vibe, warm natural soft lighting, consistent character design, cinematic realistic, vertical 9:16 aspect ratio
 
-ตัวละครที่ 2: นนท์ (ลูกชายวัย 21 ปี นักศึกษาปีสุดท้ายที่เพิ่งผิดหวังจากการสัมภาษณ์งานสำคัญ)
-- บุคลิก: กตัญญู มุ่งมั่น ตั้งใจ แต่กดดันตัวเองสูงจนกลัวการทำให้ครอบครัวผิดหวัง
-- ลักษณะ/สีผม/ชุด: ชายหนุ่มไทยวัย 21 ปี รูปร่างโปร่ง ผิวสองสี ใบหน้าสุภาพ สวมแว่นตากรอบบางสีดำ ผมส้นหยักศกสีดำธรรมชาติปัดข้างเล็กน้อย สวมเสื้อเชิ้ตคอปกแขนยาวสีฟ้าพาสเทลพับแขนถึงข้อศอก กางเกงสแล็กสีเทาเข้มชาร์โคล
-- Character Prompt (EN): A 21-year-old Thai young man, slim build, polite face, wearing thin black-rimmed spectacles, natural slightly wavy black hair parted naturally, wearing a light blue pastel Oxford long-sleeve shirt with sleeves rolled up to the elbows, charcoal gray tailored trousers, vulnerable yet determined expression, vertical 9:16 aspect ratio
+ตัวละครที่ 2: น้องมีนา (หลานสาววัย 12 ปี นักเรียนชั้นประถมปลาย)
+- บุคลิก: อ่อนไหว ตั้งใจจริง กลัวความล้มเหลวแต่ต้องการการยอมรับและความรัก
+- ลักษณะ/สีผม/ชุด: เด็กหญิงไทยวัย 12 ปี รูปร่างเล็ก ผิวขาวเหลือง ตาโตน่ารัก ผมสีดำสนิททรงประบ่าตรง ติดกิ๊บติดผมสีเหลืองพาสเทลที่ข้างซ้าย สวมเสื้อยืดคอกลมสีเหลืองอ่อน (pale yellow) ทับด้วยเอี๊ยมยีนส์ขาสั้นสีฟ้าซีด (light blue denim overalls)
+- Character Prompt (EN): Character sheet of a 12-year-old Thai schoolgirl, large expressive teary eyes, straight black shoulder-length hair with a pastel yellow hair clip on the left, wearing a pale yellow t-shirt under light blue denim overalls. Innocent, emotional expression, soft daylighting, consistent character design, cinematic realistic, vertical 9:16 aspect ratio
 
 --------------------------------------------------
 2. บทละครและคำสั่งสร้างภาพ/วิดีโอ (5 ฉาก ขนาด 9:16)
 --------------------------------------------------
 [ฉากที่ 1: เปิดเรื่อง/ปูบรรยากาศ]
-- มุมกล้อง/แอ็กชัน: Medium Shot ช่วงเวลาเย็น แสงสีทองอบอุ่นส่องผ่านหน้าต่างครัวไทย แม่รัตน์กำลังจัดวางขนมเปียกปูนใบเตยสีเขียวมรกตลงบนจานกระเบื้องเคลือบโบราณ นนท์เปิดประตูไม้เข้ามาด้วยท่าทางหมดเรี่ยวแรง ถือแฟ้มเอกสารแนบข้างลำตัว ไหล่ห่อเล็กน้อย
-- บทพูด/เสียงพากย์: นนท์: (เสียงแผ่วเบา) "แม่ครับ... นนท์กลับมาแล้วครับ"
-แม่รัตน์: (หันมายิ้มอบอุ่น ดวงตาเป็นประกาย) "กลับมาแล้วเหรอลูก เข้ามาดื่มน้ำก่อนเร็ว วันนี้แม่ทำเปียกปูนใบเตยของโปรดไว้รอด้วยนะ"
-- Image/Video Prompt (EN): Cinematic vertical 9:16 medium shot, cozy traditional Thai wooden kitchen during golden hour. On the left, a 48-year-old Thai mother with dark brown hair in a low bun, wearing an ivory cotton short-sleeved blouse and a lavender floral apron, plating emerald green pandan sweets on a vintage ceramic plate. On the right entering through a wooden door, a 21-year-old Thai young man with thin black-rimmed glasses, wavy black hair, wearing a light blue pastel Oxford shirt with rolled-up sleeves and charcoal gray trousers, holding a portfolio folder looking tired, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium Shot มุมมองแนวตั้ง ในสวนหลังบ้านที่ร่มรื่นไปด้วยต้นไม้กระถาง แสงแดดยามเย็นส่องกระทบ ตาตะวันกำลังรดน้ำต้นไม้ใน背景 น้องมีนานั่งก้มหน้าน้ำตาคลออยู่บนม้านั่งไม้ ในมือถือกระถางดินเผาเล็กๆ ที่แตกหักและต้นไม้จิ๋วที่กิ่งหักบอบช้ำ
+- บทพูด/เสียงพากย์: เสียงพากย์น้องมีนา: "หนูทำมันพังอีกแล้ว... ไม่ว่าทำอะไร หนูเสนอก็ดื้อและทำผิดพลาดไปหมดเลย..."
+- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, medium shot of a lush Thai backyard garden during golden hour. In the background, a 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers holds a watering can. In the foreground, a sad 12-year-old Thai girl with straight black shoulder-length hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls sits on a wooden bench crying softly while holding a broken clay pot with a broken tiny plant. Soft golden sun rays, emotional atmosphere, cinematic video frame, vertical 9:16 aspect ratio
 
 [ฉากที่ 2: ปมเล็กๆ หรือความรู้สึกในใจ]
-- มุมกล้อง/แอ็กชัน: Close-up สลับระหว่างหน้าจอมือถือของนนท์ที่แสดงอีเมลแจ้งปฏิเสธรับเข้าทำงาน กับใบหน้าของนนท์ที่น้ำตาคลอเบ้า เขาแอบคว่ำหน้าจอมือถือลงบนโต๊ะไม้เมื่อเห็นแม่เดินเข้ามา พยายามฝืนยิ้มแต่ริมฝีปากสั่นระริก
-- บทพูด/เสียงพากย์: นนท์: (น้ำเสียงสั่นเครือ) "แม่ครับ... นนท์ขอโทษนะ บริษัทที่นนท์อยากทำที่สุด... เขาไม่เลือกนนท์ นนท์ทำให้แม่ต้องเหนื่อยส่งเรียนฟรีๆ อีกแล้ว..."
-แม่รัตน์: (มองดูลูกด้วยสายตาอ่อนโยน ไร้แววผิดหวัง)
-- Image/Video Prompt (EN): Cinematic vertical 9:16 close-up shot. Focus on a 21-year-old Thai young man wearing thin black-rimmed glasses, slightly wavy black hair, and a light blue pastel Oxford shirt, sitting at a rustic wooden dining table with eyes brimming with unshed tears, hastily flipping his smartphone screen face down. Soft golden rim light illuminating his emotional expression, atmospheric Thai house interior, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Close-up ใบหน้าของน้องมีนาที่หยาดน้ำตาหยดลงบนยอดไม้ที่หัก ก่อนเปลี่ยนเป็น Medium Shot ตาตะวันวางกระป๋องรดน้ำ เดินเข้ามานั่งลงข้างๆ อย่างเบามือ แล้ววางมือใหญ่อบอุ่นลงบนหัวของหลานสาวด้วยความลึกซึ้ง
+- บทพูด/เสียงพากย์: น้องมีนา: "ตาจ๋า... หนูสอบวาดรูปก็แพ้ แล้วยังทำกระถางต้นไม้โปรดของตาแตกอีก... หนูมันไม่ได้เรื่องเลยใช่ไหมคะ?"
+- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, close-up to medium shot. The 12-year-old Thai girl with straight black shoulder-length hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls looks down with teary eyes. Beside her, the 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers sits down, placing his hand gently on her head to comfort her. Warm natural light filtering through leaves, touching moment, vertical 9:16 aspect ratio
 
 [ฉากที่ 3: จุดเปลี่ยน/การกระทำหรือคำพูดที่แสดงความห่วงใย]
-- มุมกล้อง/แอ็กชัน: Medium Shot แม่รัตน์วางจานขนมลงบนโต๊ะ เดินเข้ามาดึงเก้าอี้ข้างนนท์แล้วนั่งลง ยื่นมือที่อบอุ่นและมีรอยด้านจากการทำขนมไปกุมมือทั้งสองข้างของลูกชายไว้ บีบเบาๆ ส่งพลังใจ
-- บทพูด/เสียงพากย์: แม่รัตน์: (น้ำเสียงนุ่มนวล ปลอบประโลม) "ทำไมคิดแบบนั้นล่ะลูก การที่ลูกทุ่มเทเต็มที่ มันไม่มีคำว่าเสียเปล่าหรอกนะ... มานี่สิ มาช่วยแม่กวนสังขยากระทะสุดท้ายหน่อยนะ"
-- Image/Video Prompt (EN): Cinematic vertical 9:16 medium shot. In a warm wooden dining room, a 48-year-old Thai mother with dark brown hair in a low bun, wearing an ivory cotton blouse and lavender floral apron, sits lovingly beside her 21-year-old Thai son who wears thin black-rimmed glasses and a light blue Oxford shirt. She gently holds his trembling hands between hers with deep maternal affection and comforting warmth, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Close-up มือของตาตะวันหยิบต้นไม้จิ๋วที่กิ่งหักขึ้นมาประคองอย่างเบามือ แล้วใช้นิ้วชี้ให้หลานดูตรงรอยแผลเดิมของกิ่ง ซึ่งมีก้านยอดอ่อนสีเขียวสดกำลังงอกใหม่ออกมาข้างๆ
+- บทพูด/เสียงพากย์: ตาตะวัน: "ดูตรงนี้สิลูก... ต้นไม้ต้นนี้เคยโดนพายุพัดจนหักมาแล้ว แต่เห็นไหมว่ามันไม่ตาย มันแค่พัก แล้วเตรียมแตกยอดใหม่ที่เขียวสดและแข็งแรงกว่าเดิม"
+- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, close-up of hands. The 68-year-old Thai grandfather wearing a light brown cotton mandarin shirt holds the small damaged plant, pointing gently to a tiny new green sprout emerging next to a cut branch. The 12-year-old Thai girl with black hair and pastel yellow clip watches attentively. Soft backlight, close detail on plant growth, healing tone, vertical 9:16 aspect ratio
 
 [ฉากที่ 4: จุดพีคฮีลใจ/คลี่คลายอารมณ์]
-- มุมกล้อง/แอ็กชัน: Medium Close-up ที่หน้าเตาไฟอ่อน นนท์จับไม้พายกวนสังขยาใบเตยสีเขียวนวลในกระทะทองเหลือง ควันหอมกรุ่นลอยฟุ้ง แม่รัตน์ยืนเคียงข้าง ค่อยๆ วางมือทาบลงบนมือนนท์ช่วยออกแรงกวนขนม น้ำตาของนนท์หยดลงข้างแก้มแต่เป็นน้ำตาที่ปลดปล่อยความตึงเครียด
-- บทพูด/เสียงพากย์: แม่รัตน์: "ดูสิลูก... ขนมไทยน่ะ ถ้าใจร้อนเร่งไฟแรง กะทิก็แตกมัน ไส้ก็ไหม้ ต้องค่อยๆ ใช้ไฟอ่อน ค่อยๆ กวนอย่างใจเย็น ชีวิตคนเราก็เหมือนกันนะลูก พลาดตรงนี้ ไม่ได้แปลว่าลูกไม่เก่ง แค่ยังไม่ถึงจังหวะเวลาที่พอดีของลูกเท่านั้นเอง"
-- Image/Video Prompt (EN): Cinematic vertical 9:16 medium close-up shot over a traditional brass wok on a low flame stove, aromatic steam rising from rich green pandan coconut custard. A 21-year-old Thai young man wearing thin black-rimmed glasses and light blue Oxford shirt holds a wooden spatula, a single tear on his cheek, while his 48-year-old Thai mother in an ivory blouse and lavender floral apron gently places her hand over his, guiding him to stir gently, glowing warm kitchen atmosphere, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium Shot ตาตะวันพาน้องมีนาไปหยิบกระถางใบใหม่ ทั้งสองช่วยกันประคองต้นไม้ลงกระถางและตักดินใส่ร่วมกัน น้องมีนาเริ่มยิ้มทั้งน้ำตาเมื่อตาส่งบัวรดน้ำจิ๋วให้เธอกดรดน้ำต้นไม้อย่างอ่อนโยนด้วยตัวเอง
+- บทพูด/เสียงพากย์: ตาตะวัน: "คนเราก็เหมือนต้นไม้จ้ะ... ความผิดพลาดไม่ใช่จุดจบ แต่มันคือปุ๋ยชั้นดีที่ช่วยให้เราเรียนรู้และโตขึ้นอย่างเข้มแข็งขึ้นนะลูก"
+- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, medium shot of the 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers and the 12-year-old Thai girl with black shoulder-length hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls repotting the plant together into a new ceramic pot. The girl smiles brightly while watering the plant. Sunbeams creating a warm atmosphere, emotional healing, vertical 9:16 aspect ratio
 
-[ฉากที่ 5: บทสรุปอบอุ่น พร้อมสอดแทรกข้อคิดสอนใจในบทพูด]
-- มุมกล้อง/แอ็กชัน: Medium Shot ทั้งสองคนนั่งเคียงข้างกันที่ชานเรือน ตักขนมเปียกปูนใบเตยโรยมะพร้าวขูดกินด้วยกัน นนท์ตักขนมเข้าปาก รสชาติหอมหวานละมุนทำให้เขายิ้มออกมาจากใจจริง แม่รัตน์ส่งยิ้มอ่อนโยนให้ ภาพค่อยๆ เฟดออกอย่างอบอุ่น
-- บทพูด/เสียงพากย์: นนท์: (ยิ้มทั้งน้ำตา รูปรอยยิ้มสดใสขึ้น) "ขนมของแม่อร่อยและอุ่นที่สุดในโลกเลยครับ พรุ่งนี้นนท์จะเริ่มส่งใบสมัครใหม่อีกครั้งครับแม่"
-แม่รัตน์: "จำไว้นะลูก ชีวิตไม่มีคำว่าล้มเหลว ตราบใดที่เรายังไม่ยอมแพ้ และต่อให้ข้างนอกจะเจออะไรมา... บ้านหลังนี้และอ้อมกอดของแม่ จะเป็นที่พักใจให้ลูกเสมอจ้ะ"
-- Image/Video Prompt (EN): Cinematic vertical 9:16 medium shot, peaceful porch of a Thai wooden home at twilight with warm ambient lanterns. A 48-year-old Thai mother in her ivory cotton blouse and lavender floral apron, and her 21-year-old son in his light blue pastel Oxford shirt and black-rimmed spectacles, sitting together sharing a bowl of Thai pandan dessert, both smiling genuinely with relief, connection, and deep family warmth, vertical 9:16 aspect ratio
+[ฉากที่ 5: บทสรุปอบอุ่น พร้อมสอดแทรกข้อคิดสอนใจในบทพูดอย่างเป็นธรรมชาติ]
+- มุมกล้อง/แอ็กชัน: Medium-Wide Shot แสงพระอาทิตย์ยามตกดินสีทองอบอุ่นอบอวล ตาตะวันโอบไหล่หลานสาวขณะยืนมองกระถางต้นไม้ใหม่บนโต๊ะไม้ น้องมีนายิ้มสดใส สวมกอดตาด้วยความรักและความมั่นใจในตัวเองที่กลับคืนมา
+- บทพูด/เสียงพากย์: น้องมีนา: "ขอบคุณนะคะตา... ต่อไปนี้หนูจะไม่กลัวการทำผิดพลาดอีกแล้วค่ะ หนูจะตั้งใจเติบโตเป็นต้นไม้ที่แข็งแรงให้ได้!"
+- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, medium-wide cinematic shot. The 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers warmly embraces the 12-year-old Thai girl with black hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls in the garden during a beautiful sunset. The repotted plant sits neatly on a wooden table beside them. Heartwarming, inspirational family love, golden hour lighting, cinematic realistic, vertical 9:16 aspect ratio
 
 --------------------------------------------------
 3. ข้อคิดสอนใจ & แคปชัน
 --------------------------------------------------
-ข้อคิดสอนใจ: ความสำเร็จในชีวิตก็เหมือนการเคี่ยวขนม ต้องใช้ความอดทนและเวลา
-และไม่มีความพยายามใดสูญเปล่า ตราบใดที่บ้านยังเป็นพื้นที่ปลอดภัยให้เราเริ่มต้นใหม่ได้เสมอ
+ข้อคิดสอนใจ: ไม่มีต้นไม้ต้นไหนที่ไม่เคยผ่านลมฝน... ความผิดพลาดไม่ใช่จุดจบ แต่คือปุ๋ยชั้นดีที่ทำให้เราเติบโตอย่างเข้มแข็ง
 
 แคปชัน:
-รสชาติที่หวานละมุนที่สุด อาจไม่ใช่ความสำเร็จในทันที แต่คือความรักจากครอบครัวที่คอยประคองในวันที่เราล้ม 💚🌱 #ครอบครัวอบอุ่น #อุ่นไอใบเตย #ซีรีส์สั้นฮีลใจ #กำลังใจ #พลังใจจากแม่ #เรื่องสั้นสะท้อนชีวิต
+ความผิดพลาดไม่ได้แปลว่าเราล้มเหลว... แต่มันคือปุ๋ยชั้นดีที่ช่วยให้เราเติบโตขึ้นอย่างเข้มแข็ง 🌿💚 ให้กำลังใจตัวเองและคนที่รักในวันที่ทำพลาดกันนะคะ #ครอบครัวอบอุ่น #ต้นไม้ของตา #หนังสั้นฮีลใจ #ข้อคิดดีๆ #ความรู้สึกดีๆ #ซีรีส์สั้น

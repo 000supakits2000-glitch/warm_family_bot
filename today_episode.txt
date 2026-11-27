@@ -1,51 +1,52 @@
 === ซีรีส์สั้นฮีลใจ 'ครอบครัวอบอุ่น' ประจำวันที่ 2026-11-27 ===
-ชื่อตอน: ต้นไม้ของตา
+ชื่อตอน: ซุปอุ่นหลังกะดึก
 
 --------------------------------------------------
 1. การออกแบบตัวละคร (Character Design - สำหรับคุมหน้าและชุดให้คงเดิม)
 --------------------------------------------------
-ตัวละครที่ 1: ตาตะวัน (ตาวัย 68 ปี อดีตรุกขกรผู้ใจดีและสุขุม)
-- บุคลิก: ใจเย็น อบอุ่น มีเมตตา เปี่ยมด้วยความเข้าใจในธรรมชาติและชีวิต
-- ลักษณะ/สีผม/ชุด: ชายไทยวัย 68 ปี รูปร่างสมส่วน ผิวสีน้ำผึ้ง มีรอยยิ้มอบอุ่นใจดี มีริ้วรอยตามวัย ผมสีขาวแซมเทาสั้นตัดเรียบร้อย สวมเสื้อเชิ้ตคอจีนแขนสั้นผ้าฝ้ายสีน้ำตาลอ่อน (light brown) และกางเกงขายาวผ้าลินินสีครีม (cream)
-- Character Prompt (EN): Character sheet of a 68-year-old Thai grandfather, sun-kissed skin, warm gentle smile, neat short white and grey hair, wearing a light brown cotton mandarin collar short-sleeve shirt and cream linen trousers. Wise, patient, cozy vibe, warm natural soft lighting, consistent character design, cinematic realistic, vertical 9:16 aspect ratio
+ตัวละครที่ 1: ป่าน (พี่สาวคนโตวัย 28 ปี (พยาบาลห้องฉุกเฉินผู้ทุ่มเทดูแลน้อง))
+- บุคลิก: เข้มแข็ง เสียสละ จิตใจโอบอ้อมอารี มักเก็บความเหนื่อยล้าไว้คนเดียวเพื่อไม่ให้น้องชายกังวล
+- ลักษณะ/สีผม/ชุด: หญิงสาวไทยวัย 28 ปี รูปร่างสมส่วน ผิวสองสีเนียน ดวงตาเรียวรีแฝงความเหนื่อยล้าแต่อบอุ่น ผมสีน้ำตาลเข้มธรรมชาติรวบมวยต่ำเรียบร้อยติดยางรัดผมสีเขียวเข้ม มีปอยผมด้านข้างเล็กน้อย สวมเสื้อเชิ้ตแขนสั้นผ้าลินินสีส้มอิฐ (terracotta orange) สวมทับเสื้อกล้ามสีขาวด้านใน กางเกงขายาวขากว้างสีเขียวโอลีฟ (olive green)
+- Character Prompt (EN): A 28-year-old Thai woman, tired yet gentle almond eyes, soft compassionate expression, natural light tan skin tone, natural dark brown hair tied in a neat low bun with a dark green scrunchie and soft side wisps. Wearing a terracotta orange linen button-down short-sleeve shirt over a plain white inner tank top, and wide-leg olive green trousers. Soft studio lighting, realistic cinematic, vertical 9:16 aspect ratio, consistent character sheet.
 
-ตัวละครที่ 2: น้องมีนา (หลานสาววัย 12 ปี นักเรียนชั้นประถมปลาย)
-- บุคลิก: อ่อนไหว ตั้งใจจริง กลัวความล้มเหลวแต่ต้องการการยอมรับและความรัก
-- ลักษณะ/สีผม/ชุด: เด็กหญิงไทยวัย 12 ปี รูปร่างเล็ก ผิวขาวเหลือง ตาโตน่ารัก ผมสีดำสนิททรงประบ่าตรง ติดกิ๊บติดผมสีเหลืองพาสเทลที่ข้างซ้าย สวมเสื้อยืดคอกลมสีเหลืองอ่อน (pale yellow) ทับด้วยเอี๊ยมยีนส์ขาสั้นสีฟ้าซีด (light blue denim overalls)
-- Character Prompt (EN): Character sheet of a 12-year-old Thai schoolgirl, large expressive teary eyes, straight black shoulder-length hair with a pastel yellow hair clip on the left, wearing a pale yellow t-shirt under light blue denim overalls. Innocent, emotional expression, soft daylighting, consistent character design, cinematic realistic, vertical 9:16 aspect ratio
+ตัวละครที่ 2: วิน (น้องชายวัย 16 ปี (นักเรียนมัธยมปลายผู้เงียบขรึมและรักพี่สาว))
+- บุคลิก: ช่างสังเกต ขี้เกรงใจ อ่อนไหว กลัวตัวเองเป็นภาระพี่สาว แต่พร้อมทำทุกอย่างเพื่อดูแลพี่
+- ลักษณะ/สีผม/ชุด: เด็กหนุ่มไทยวัย 16 ปี รูปร่างโปร่ง ผิวขาวเหลือง ใบหน้าเกลี้ยงเกลาดูไร้เดียงสา ผมตรงสั้นสีดำสนิททรงแสกกลางมีวอลลุ่ม (curtain bangs) สวมเสื้อยืดคอกลมโอเวอร์ไซส์สีเหลืองมัสตาร์ดซีด (faded mustard yellow) พับแขนเสื้อเล็กน้อย กางเกงคาร์โก้ขายาวทรงหลวมสีกรมท่า (navy blue cargo pants)
+- Character Prompt (EN): A 16-year-old Thai teenage boy, lean build, gentle youthful face, slightly hesitant and thoughtful expression, medium-fair skin tone, jet-black messy textured curtain bangs haircut. Wearing an oversized faded mustard yellow t-shirt with rolled-up cuffs, loose navy blue cargo pants. Studio lighting, realistic cinematic, vertical 9:16 aspect ratio, consistent character sheet.
 
 --------------------------------------------------
 2. บทละครและคำสั่งสร้างภาพ/วิดีโอ (5 ฉาก ขนาด 9:16)
 --------------------------------------------------
 [ฉากที่ 1: เปิดเรื่อง/ปูบรรยากาศ]
-- มุมกล้อง/แอ็กชัน: Medium Shot มุมมองแนวตั้ง ในสวนหลังบ้านที่ร่มรื่นไปด้วยต้นไม้กระถาง แสงแดดยามเย็นส่องกระทบ ตาตะวันกำลังรดน้ำต้นไม้ใน背景 น้องมีนานั่งก้มหน้าน้ำตาคลออยู่บนม้านั่งไม้ ในมือถือกระถางดินเผาเล็กๆ ที่แตกหักและต้นไม้จิ๋วที่กิ่งหักบอบช้ำ
-- บทพูด/เสียงพากย์: เสียงพากย์น้องมีนา: "หนูทำมันพังอีกแล้ว... ไม่ว่าทำอะไร หนูเสนอก็ดื้อและทำผิดพลาดไปหมดเลย..."
-- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, medium shot of a lush Thai backyard garden during golden hour. In the background, a 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers holds a watering can. In the foreground, a sad 12-year-old Thai girl with straight black shoulder-length hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls sits on a wooden bench crying softly while holding a broken clay pot with a broken tiny plant. Soft golden sun rays, emotional atmosphere, cinematic video frame, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Eye-level shot แสงแดดยามเช้าสีทองส่องผ่านหน้าต่างห้องครัวเล็กๆ ในอะพาร์ตเมนต์เก่า ป่านเดินโซเซเปิดประตูเข้ามาด้วยท่าทางอ่อนล้าอย่างหนัก ปลดกระเป๋าสะพายหลังวางบนเก้าอี้ไม้ แล้วทิ้งตัวลงฟุบหน้ากับโต๊ะกินข้าว
+- บทพูด/เสียงพากย์: ป่าน (เสียงกระซิบแหบแห้ง พลางถอนหายใจยาว): "กะดึก 12 ชั่วโมงติด... ร่างกายเหมือนจะแหลกเลย... ขอพักสายตาสักสิบนาทีนะ..."
+- Image/Video Prompt (EN): Eye-level vertical shot, early morning golden sunlight cutting through dust motes in a humble vintage Thai apartment kitchen. A 28-year-old Thai woman with dark brown hair in a neat low bun with a dark green scrunchie, wearing a terracotta orange linen button-down short-sleeve shirt and wide-leg olive green trousers, exhausts herself and slumps face down on a wooden dining table, cinematic realistic style, warm moody morning light, vertical 9:16 aspect ratio.
 
 [ฉากที่ 2: ปมเล็กๆ หรือความรู้สึกในใจ]
-- มุมกล้อง/แอ็กชัน: Close-up ใบหน้าของน้องมีนาที่หยาดน้ำตาหยดลงบนยอดไม้ที่หัก ก่อนเปลี่ยนเป็น Medium Shot ตาตะวันวางกระป๋องรดน้ำ เดินเข้ามานั่งลงข้างๆ อย่างเบามือ แล้ววางมือใหญ่อบอุ่นลงบนหัวของหลานสาวด้วยความลึกซึ้ง
-- บทพูด/เสียงพากย์: น้องมีนา: "ตาจ๋า... หนูสอบวาดรูปก็แพ้ แล้วยังทำกระถางต้นไม้โปรดของตาแตกอีก... หนูมันไม่ได้เรื่องเลยใช่ไหมคะ?"
-- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, close-up to medium shot. The 12-year-old Thai girl with straight black shoulder-length hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls looks down with teary eyes. Beside her, the 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers sits down, placing his hand gently on her head to comfort her. Warm natural light filtering through leaves, touching moment, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium close-up shot วินยืนแอบมองพี่สาวจากมุมทางเดินหน้าห้องนอน ในมือกำกระดาษใบแจ้งค่าเทอมโรงเรียนที่ยับย่น สีหน้าเต็มไปด้วยความเจ็บปวดและรู้สึกลำบากใจ ก่อนจะรีบพับเก็บซ่อนไว้ในกระเป๋ากางเกงคาร์โก้
+- บทพูด/เสียงพากย์: วิน (พึมพำกับตัวเองเบาๆ แววตารู้สึกผิด): "พี่ป่านทำงานเหนื่อยสายตัวแทบขาดขนาดนี้... เรายังจะกล้าเอาภาระค่าเทอมไปเพิ่มให้พี่ได้ยังไง..."
+- Image/Video Prompt (EN): Medium close-up vertical shot in a dim Thai apartment hallway. A 16-year-old Thai teenage boy with jet-black textured curtain bangs haircut, wearing an oversized faded mustard yellow t-shirt and navy blue cargo pants, looks anxiously at a crumpled tuition fee bill in his hands, then hides it in his pocket, looking at his sleeping sister with guilty eyes, vertical 9:16 aspect ratio.
 
 [ฉากที่ 3: จุดเปลี่ยน/การกระทำหรือคำพูดที่แสดงความห่วงใย]
-- มุมกล้อง/แอ็กชัน: Close-up มือของตาตะวันหยิบต้นไม้จิ๋วที่กิ่งหักขึ้นมาประคองอย่างเบามือ แล้วใช้นิ้วชี้ให้หลานดูตรงรอยแผลเดิมของกิ่ง ซึ่งมีก้านยอดอ่อนสีเขียวสดกำลังงอกใหม่ออกมาข้างๆ
-- บทพูด/เสียงพากย์: ตาตะวัน: "ดูตรงนี้สิลูก... ต้นไม้ต้นนี้เคยโดนพายุพัดจนหักมาแล้ว แต่เห็นไหมว่ามันไม่ตาย มันแค่พัก แล้วเตรียมแตกยอดใหม่ที่เขียวสดและแข็งแรงกว่าเดิม"
-- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, close-up of hands. The 68-year-old Thai grandfather wearing a light brown cotton mandarin shirt holds the small damaged plant, pointing gently to a tiny new green sprout emerging next to a cut branch. The 12-year-old Thai girl with black hair and pastel yellow clip watches attentively. Soft backlight, close detail on plant growth, healing tone, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium shot วินเดินย่องเข้าไปในครัวอย่างเงียบเชียบ เปิดฝาหม้อต้มซุปเต้าหู้หมูสับสาหร่ายร้อนๆ ควันลอยกรุ่น ตักใส่ชามเซรามิกสีขาว แล้วยกมาวางข้างศีรษะของป่านเบาๆ พร้อมกับแก้วน้ำอุ่นหนึ่งใบ
+- บทพูด/เสียงพากย์: วิน (สะกิดแขนพี่สาวเบาๆ ด้วยน้ำเสียงนุ่มนวล): "พี่ป่านครับ... ตื่นมากินซุปอุ่นๆ ก่อนนอนนะ ผมตื่นมาทำให้... ถึงรสชาติจะไม่เท่าแม่ทำ แต่ช่วยให้อิ่มท้องนะพี่"
+- Image/Video Prompt (EN): Medium vertical shot inside the cozy kitchen. A 16-year-old Thai teenage boy with jet-black curtain bangs, in an oversized faded mustard yellow t-shirt and loose navy blue cargo pants, gently places a steaming bowl of clear tofu soup and a warm glass of water next to the 28-year-old Thai woman who is resting on the table, wearing her terracotta orange linen shirt and olive green trousers, warm steam rising, gentle caring atmosphere, vertical 9:16 aspect ratio.
 
 [ฉากที่ 4: จุดพีคฮีลใจ/คลี่คลายอารมณ์]
-- มุมกล้อง/แอ็กชัน: Medium Shot ตาตะวันพาน้องมีนาไปหยิบกระถางใบใหม่ ทั้งสองช่วยกันประคองต้นไม้ลงกระถางและตักดินใส่ร่วมกัน น้องมีนาเริ่มยิ้มทั้งน้ำตาเมื่อตาส่งบัวรดน้ำจิ๋วให้เธอกดรดน้ำต้นไม้อย่างอ่อนโยนด้วยตัวเอง
-- บทพูด/เสียงพากย์: ตาตะวัน: "คนเราก็เหมือนต้นไม้จ้ะ... ความผิดพลาดไม่ใช่จุดจบ แต่มันคือปุ๋ยชั้นดีที่ช่วยให้เราเรียนรู้และโตขึ้นอย่างเข้มแข็งขึ้นนะลูก"
-- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, medium shot of the 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers and the 12-year-old Thai girl with black shoulder-length hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls repotting the plant together into a new ceramic pot. The girl smiles brightly while watering the plant. Sunbeams creating a warm atmosphere, emotional healing, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Close-up shot ป่านค่อยๆ เงยหน้าขึ้น แววตาประหลาดใจระคนซาบซึ้ง เธอเหลือบไปเห็นมุมกระดาษค่าเทอมที่โผล่จากกระเป๋ากางเกงน้องชาย ป่านเอื้อมมือไปดึงมือวินมากุมไว้แน่น น้ำตาคลอเบ้าด้วยรอยยิ้มอบอุ่น
+- บทพูด/เสียงพากย์: ป่าน (ยิ้มทั้งน้ำตา ลูบหลังมือน้องชาย): "กลิ่นหอมจังเลย... วิน พี่เห็นกระดาษในกระเป๋าแล้วนะ พี่เตรียมเงินค่าเทอมไว้ให้เราตั้งแต่อาทิตย์ก่อนแล้ว อย่าแอบแบกความกังวลไว้คนเดียวอีกนะ พี่ทำงานเหนื่อยแค่ไหน ได้ยินเสียงวิน พี่ก็หายเหนื่อยแล้ว"
+- Image/Video Prompt (EN): Emotional close-up vertical shot. A 28-year-old Thai woman with dark brown hair in a neat low bun, wearing a terracotta orange linen shirt, with tears of relief and love in her eyes, holding the hand of her 16-year-old Thai teenage brother who has jet-black curtain bangs and wears an oversized faded mustard yellow t-shirt, steaming bowl of soup between them on the wooden table, tender cinematic lighting, vertical 9:16 aspect ratio.
 
 [ฉากที่ 5: บทสรุปอบอุ่น พร้อมสอดแทรกข้อคิดสอนใจในบทพูดอย่างเป็นธรรมชาติ]
-- มุมกล้อง/แอ็กชัน: Medium-Wide Shot แสงพระอาทิตย์ยามตกดินสีทองอบอุ่นอบอวล ตาตะวันโอบไหล่หลานสาวขณะยืนมองกระถางต้นไม้ใหม่บนโต๊ะไม้ น้องมีนายิ้มสดใส สวมกอดตาด้วยความรักและความมั่นใจในตัวเองที่กลับคืนมา
-- บทพูด/เสียงพากย์: น้องมีนา: "ขอบคุณนะคะตา... ต่อไปนี้หนูจะไม่กลัวการทำผิดพลาดอีกแล้วค่ะ หนูจะตั้งใจเติบโตเป็นต้นไม้ที่แข็งแรงให้ได้!"
-- Image/Video Prompt (EN): Vertical 9:16 aspect ratio, medium-wide cinematic shot. The 68-year-old Thai grandfather with short white-grey hair, light brown cotton mandarin shirt, cream linen trousers warmly embraces the 12-year-old Thai girl with black hair, pastel yellow clip, pale yellow t-shirt under light blue denim overalls in the garden during a beautiful sunset. The repotted plant sits neatly on a wooden table beside them. Heartwarming, inspirational family love, golden hour lighting, cinematic realistic, vertical 9:16 aspect ratio
+- มุมกล้อง/แอ็กชัน: Medium shot ป่านตักซุปเข้าปากคำแรกแล้วหลับตายิ้มอย่างมีความสุข วินนั่งลงฝั่งตรงข้าม ยิ้มกว้างด้วยความโล่งใจ แสงแดดสีทองอบอุ่นส่องสว่างทั่วทั้งโต๊ะอาหาร สะท้อนภาพสองพี่น้องที่ดูแลกัน
+- บทพูด/เสียงพากย์: วิน (ยิ้มสดใสอย่างโล่งอก): "อร่อยใช่ไหมพี่ป่าน ต่อไปนี้มีอะไรผมจะไม่แอบซ่อนอีกแล้วครับ"
+ป่าน (พยักหน้า ยิ้มอย่างอบอุ่น): "คำว่าครอบครัว ไม่ได้แปลว่าใครคนใดคนหนึ่งต้องแบกโลกไว้ลำพังนะวิน แต่คือการช่วยกันประคอง ไม่ว่าข้างนอกจะเหนื่อยแค่ไหน แค่กลับมากินข้าวด้วยกัน เราก็มีแรงสู้ต่อแล้ว"
+- Image/Video Prompt (EN): Medium vertical shot of a warm Thai breakfast moment. A 28-year-old Thai woman in a terracotta orange linen shirt and olive green trousers smiling warmly as she eats soup, sitting across a wooden table from her 16-year-old Thai brother in an oversized faded mustard yellow t-shirt and navy blue cargo pants who smiles happily, bright morning sunlight flooding the kitchen, heartwarming cinematic vertical 9:16 aspect ratio.
 
 --------------------------------------------------
 3. ข้อคิดสอนใจ & แคปชัน
 --------------------------------------------------
-ข้อคิดสอนใจ: ไม่มีต้นไม้ต้นไหนที่ไม่เคยผ่านลมฝน... ความผิดพลาดไม่ใช่จุดจบ แต่คือปุ๋ยชั้นดีที่ทำให้เราเติบโตอย่างเข้มแข็ง
+ข้อคิดสอนใจ: ครอบครัวไม่ใช่การแบกรับความเหนื่อยไว้เพียงลำพัง แต่คือการเปิดใจร่วมแบ่งเบาและเป็นที่พักพิงให้แก่กัน
 
 แคปชัน:
-ความผิดพลาดไม่ได้แปลว่าเราล้มเหลว... แต่มันคือปุ๋ยชั้นดีที่ช่วยให้เราเติบโตขึ้นอย่างเข้มแข็ง 🌿💚 ให้กำลังใจตัวเองและคนที่รักในวันที่ทำพลาดกันนะคะ #ครอบครัวอบอุ่น #ต้นไม้ของตา #หนังสั้นฮีลใจ #ข้อคิดดีๆ #ความรู้สึกดีๆ #ซีรีส์สั้น
+ต่อให้ข้างนอกจะเหนื่อยล้าแค่ไหน ซุปอุ่นๆ ชามเดียวจากคนที่รัก ก็เปลี่ยนวันที่มืดมนให้กลับมาสดใสได้เสมอ 🍲🤍 #ครอบครัวอบอุ่น #ซุปอุ่นหลังกะดึก #ซีรีส์ฮีลใจ #พลังใจ #พี่น้อง #ข้อคิดดีๆ
